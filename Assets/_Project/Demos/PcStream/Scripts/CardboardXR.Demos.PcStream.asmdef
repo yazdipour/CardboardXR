@@ -1,0 +1,23 @@
+{
+    "name": "CardboardXR.Demos.PcStream",
+    "rootNamespace": "CardboardXR.Demos.PcStream",
+    "references": [
+        "CardboardXR.Demos",
+        "CardboardXR.Stereo",
+        "CardboardXR.Hands",
+        "CardboardXR.Interaction",
+        "UnityEngine.UI",
+        "CardboardXR.UI",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
