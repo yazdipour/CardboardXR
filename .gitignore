@@ -71,3 +71,12 @@ crashlytics-build.properties
 /[Aa]ssets/StreamingAssets/*.mp4.meta
 !/[Aa]ssets/StreamingAssets/Sample_*.mp4
 !/[Aa]ssets/StreamingAssets/Sample_*.mp4.meta
+
+# PC Stream native build: downloaded GPL sources and the library built from them (see Tools/build_pcstream_native.sh)
+Native/PcStream/.build/
+Assets/Plugins/iOS/PcStream/
+Assets/Plugins/iOS/PcStream.meta
+
+# PC Stream: this machine's own default PC address (read by PcStreamDemo.SavedHost)
+Assets/_Project/Demos/PcStream/Resources/
+Assets/_Project/Demos/PcStream/Resources.meta
